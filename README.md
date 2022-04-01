@@ -10,5 +10,5 @@ This dataset consists of thousands of images of 10 different objects. Each image
 Using this dataset, we can train our Neural Network to identify these objects.  
 I have split the code in multiple jupyter notebooks to make it easy to understand.  
 All the images present have been used for testing purpose in the code.  
-The final project has been summarised in deep_learning_final_project in pdf and ppt formats.
+The final project has been summarised in **deep_learning_final_project** in pdf and ppt formats.
 
