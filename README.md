@@ -7,4 +7,7 @@ classification and compared them using different metrics.
 **Libraries used** : Matplotlib, Numpy, Tensorflow.  
 **Dataset** : Cifar-10, link : https://www.cs.toronto.edu/~kriz/cifar.html   
 This dataset consists of thousands of images of 10 different objects. Each image is labelled,so we know which kind of image it is.  
-Using this dataset, we can train our Neural Network to identify these objects.
+Using this dataset, we can train our Neural Network to identify these objects.  
+I have split the code in multiple jupyter notebooks to make it easy to understand.  
+All the images present have been used for testing purpose in the code.  
+
